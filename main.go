@@ -4,5 +4,5 @@ import "fmt"
 
 // TestFunc : Test function
 func TestFunc() {
-	fmt.Println("testng")
+	fmt.Println("testng...")
 }
