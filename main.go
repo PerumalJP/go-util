@@ -1,7 +1,8 @@
-package main
+package goutil
 
 import "fmt"
 
-func main(){
-	fmt.Println("testng");
+// TestFunc : Test function
+func TestFunc() {
+	fmt.Println("testng")
 }
